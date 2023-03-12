@@ -27,10 +27,13 @@
 ============================================================================================================
 ============================================================================================================
 
-| Syntax  Description |
+| Passwors | For Login |
 | ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| WP | wp |
+| Wp | Text |
+| WordPress  | wordPress |
+| Word Press | PHS |
+| Phs | phs |
 
 
 # Hello User, Welcome to Wp Cracker Tool
