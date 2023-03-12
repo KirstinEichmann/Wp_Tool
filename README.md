@@ -27,13 +27,13 @@
 ============================================================================================================
 ============================================================================================================
 
-| Syntax | Description |
+| Syntax  Description |
 | ----------- | ----------- |
 | Header | Title |
 | Paragraph | Text |
 
 
-H#ello User, Welcome to Wp Cracker Tool
+# Hello User, Welcome to Wp Cracker Tool
 
 1. Version -- Alpha
 
