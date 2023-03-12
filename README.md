@@ -27,61 +27,47 @@
 ============================================================================================================
 ============================================================================================================
 
-
-==================================================
-==================================================
+--------------------------------------------------
+--------------------------------------------------
 ||            Passwords For Login               ||
 ||            -------------------               ||
 ||       WP       Wp        wP        wp        ||
 ||                                              ||
 ||        PHS          Phs         phs          ||
 ||                                              ||
-==================================================
-==================================================
+--------------------------------------------------
+--------------------------------------------------
 
 
+Hello User, Welcome to Wp Cracker Tool
 
-Hello USer, Welcome to Wp Cracker Tool
+1. Version -- Alpha
 
-1. Varsion -- Alfa
+    **Version File info:**
+        - FileName: "Wordpress Tool Alpha Version.rar"
+        - Type: "WinRAR archiver"
+        - MD5: 02ca9295ae6a4eeb93f4da59d2012aa9
+        - MD5 Checking PowerShell Command: `CertUtil -hashfile "Wordpress Tool Alpha Version.rar" MD5`
 
-    version File info :
-        FileName : "Wordpress Tool Alfa Version.rar"
-        Type : "WinRAR archiver"
-        MD5 = 02ca9295ae6a4eeb93f4da59d2012aa9
-        MD5 Ckecking Powershell Command : CertUtil -hashfile "Wordpress Tool Alfa Version.rar" MD5
+    **Version Highlights**
+    -----------------------------------------------
+    a. Wordpress Site Info Organizer
+    -------------------------------
+        It organizes information like URL, username_or_mail, and password in a special format. But there are some conditions. It has to be in one of these formats:
 
-    Version HighLight
-        -----------------------------------------------
-        a. Wprdpress Site Info Organizer
-        -------------------------------
-            its actuall organize infos, 
-            like url,username_or_mail, 
-            password in a special form
-            but there is some condition
+        1. Site_url#Username@password
+        2. Site_url#mail@password
 
-            it have to be in one of this formets
+        If it is in another format like:
 
-            1. Site_url#Username@password
-            2. Site_url#mail@password
-            
+        1. Site_url Username password
+        2. Site_url|Username|password
+        3. Site_url Username|password etc...
 
-            if it is in another formet like...
+        It won't accept those formats.
 
-            1. Site_url Username password
-            2. Site_url|Username|password
-            3. Site_url Username|password etc...
+    b. Wordpress Site Login Checker
+    ----------------------------
+        It's a non-proxy checker because it's in the alpha version. It will contain some speciality after modification in the next versions.
 
-            it won't accept thos formets
-
-        -----------------------------------------------
-        b. Wordpress Site Login Checker
-        ----------------------------
-            it's a non proxy checker, 
-            bcz it's now beta version, 
-            so it will contain some speciality 
-            after modification in next versions
-
-================================================================================
-
-Next Version Coming Soon...
+**Next Version Coming Soon...**
