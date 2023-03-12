@@ -41,7 +41,7 @@
 
 Hello User, Welcome to Wp Cracker Tool
 
-1. Version -- Alpha
+1**. Version -- Alpha**
 
     **Version File info:**
         - FileName: "Wordpress Tool Alpha Version.rar"
@@ -53,7 +53,9 @@ Hello User, Welcome to Wp Cracker Tool
     -----------------------------------------------
     a. Wordpress Site Info Organizer
     -------------------------------
-        It organizes information like URL, username_or_mail, and password in a special format. But there are some conditions. It has to be in one of these formats:
+        It organizes information like URL, username_or_mail, 
+        and password in a special format. But there are some conditions. 
+        It has to be in one of these formats:
 
         1. Site_url#Username@password
         2. Site_url#mail@password
@@ -68,6 +70,7 @@ Hello User, Welcome to Wp Cracker Tool
 
     b. Wordpress Site Login Checker
     ----------------------------
-        It's a non-proxy checker because it's in the alpha version. It will contain some speciality after modification in the next versions.
+        It's a non-proxy checker because it's in the alpha version. 
+        It will contain some speciality after modification in the next versions.
 
 **Next Version Coming Soon...**
