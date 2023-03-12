@@ -41,7 +41,7 @@
 
 Hello User, Welcome to Wp Cracker Tool
 
-1**. Version -- Alpha**
+**1. Version -- Alpha**
 
     **Version File info:**
         - FileName: "Wordpress Tool Alpha Version.rar"
