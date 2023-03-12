@@ -24,9 +24,9 @@
                             `^88888888888888888888^                                                                     
                               ``'"^=V888888888V=^'`                                                                     
                                                                                                             
-============================================================================================================
-============================================================================================================
 
+---
+---
 | Passwors | For Login |
 | ----------- | ----------- |
 | WP | wp |
@@ -70,7 +70,7 @@
             it won't accept thos formets
 
       b. Wordpress Site Login Checker
-      ----------------------------
+      ---
           It's a non-proxy checker because it's in the alpha version. 
           It will contain some speciality after modification in the next versions.
 
